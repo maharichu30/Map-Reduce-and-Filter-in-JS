@@ -1,7 +1,7 @@
 
 # Map in JS
 
-map() creates a new array from calling a function for every array element and does not change the original array.
+The map() creates a new array from calling a function for every array element and does not change the original array.
 
 Syntax:
 
